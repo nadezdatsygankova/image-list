@@ -1,0 +1,13 @@
+.images {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.imagesInside {
+  order: 2;
+  width: 45%;
+  margin: 2px;
+  height: 80%;
+}
